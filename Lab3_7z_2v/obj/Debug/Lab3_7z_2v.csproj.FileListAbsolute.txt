@@ -1,0 +1,7 @@
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\bin\Debug\Lab3_7z_2v.exe.config
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\bin\Debug\Lab3_7z_2v.exe
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\bin\Debug\Lab3_7z_2v.pdb
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\obj\Debug\Lab3_7z_2v.csprojAssemblyReference.cache
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\obj\Debug\Lab3_7z_2v.csproj.CoreCompileInputs.cache
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\obj\Debug\Lab3_7z_2v.exe
+C:\Учеба\Lab3_7z_2v\Lab3_7z_2v\obj\Debug\Lab3_7z_2v.pdb
